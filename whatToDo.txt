@@ -1,0 +1,19 @@
+Assignment 
+
+as discussed earlier in class, find below your take-home
+
+1. Opem your Mongosh shell or your Mongodb compass and  create a database called "portfolio" 
+2. Create 2 collections called  "details" and "skills"
+3. Then, after the 2 above, create a folder on your desktop called portfolio-API.
+4. Open that folder in vscode 
+5. Spin an express server API in that folder, install necessary dependencies  
+4. connect Mongo DB  to your API server in the code 
+5. Your job is as below
+   a. Create an endpoint that inserts your details(firstname, surname, dob, likes as an array, date etc), feel free to add more keys in the collection, in the details collection. Ensure you do the necessary validations where necessary
+   b. Create another endpoint that inserts your skills( skillname, skill description, ratings etc)
+   c. Create another endpoint to update your details in the details collection 
+
+
+
+
+so that'sits ....
